@@ -1,0 +1,65 @@
+.contact-section {
+  padding: 4rem 2rem;
+  background-color: #f4f4f4;
+  text-align: center;
+}
+
+.contact-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.contact-section p {
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+  color: #555;
+}
+
+.contact-section a {
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-section a:hover {
+  color: #0056b3;
+  text-decoration: underline;
+}
+
+.social-media-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  gap: 1.5rem;
+}
+
+.social-media-list li {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.social-media-list a {
+  display: flex;
+  align-items: center;
+  font-size: 1.1rem;
+  color: #333;
+  transition: color 0.3s ease;
+}
+
+.social-media-list a:hover {
+  color: #007bff;
+}
+
+.social-icon {
+  color: #333;
+  margin-right: 0.5rem;
+  transition: color 0.3s ease;
+}
+
+.social-media-list a:hover .social-icon {
+  color: #007bff;
+}

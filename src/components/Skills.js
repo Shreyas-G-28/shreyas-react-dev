@@ -9,13 +9,11 @@ import {
   faBootstrap,
   faDocker,
 } from "@fortawesome/free-brands-svg-icons";
-import { faMobileAlt, faPencilRuler } from "@fortawesome/free-solid-svg-icons";
+import {  faPencilRuler } from "@fortawesome/free-solid-svg-icons";
 import {
   faMicrosoft,
   faGitlab,
   faJira,
-  faTag,
-  faGoogleAnalytics,
 } from "@fortawesome/free-brands-svg-icons";
 import { faCode } from "@fortawesome/free-solid-svg-icons";
 import "./Skills.css";

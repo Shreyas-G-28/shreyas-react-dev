@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shreyas-react-dev/static/css/main.00b1fb36.css",
+    "main.js": "/shreyas-react-dev/static/js/main.42f38b16.js",
+    "static/js/453.7f7db893.chunk.js": "/shreyas-react-dev/static/js/453.7f7db893.chunk.js",
+    "static/media/shreyas_image.jpeg": "/shreyas-react-dev/static/media/shreyas_image.3bd0866fc28fabb0769b.jpeg",
+    "index.html": "/shreyas-react-dev/index.html",
+    "main.00b1fb36.css.map": "/shreyas-react-dev/static/css/main.00b1fb36.css.map",
+    "main.42f38b16.js.map": "/shreyas-react-dev/static/js/main.42f38b16.js.map",
+    "453.7f7db893.chunk.js.map": "/shreyas-react-dev/static/js/453.7f7db893.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00b1fb36.css",
+    "static/js/main.42f38b16.js"
+  ]
+}
